@@ -10,3 +10,4 @@
 8. Never hide the product quantity or the destination of the purchase CTA.
 9. Never mix brands or product variants in a way that makes the offer ambiguous.
 10. Never treat an unverified assumption as a requirement.
+11. Never present a product name, package size or specification as confirmed when the linked marketplace listing has not been checked against the current offer.
